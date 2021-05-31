@@ -1,2 +1,4 @@
 # PetaniDaun
-Final Project dari Dicoding
+Final Project Pelatihan "Belajar Membuat Aplikasi Android untuk Pemula" dari Dicoding
+
+## PetaniDaun
